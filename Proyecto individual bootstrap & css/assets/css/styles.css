@@ -1,0 +1,13 @@
+footer{
+    height: 530px;
+    background-image: url(../img/stage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center -100px;
+}
+@media (max-width:580px) {
+    footer{
+        background-size:auto;
+    background-position: center;
+    }
+}
